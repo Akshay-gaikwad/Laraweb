@@ -56,6 +56,6 @@ This page shows below services pricing plans:
 ![pricing](https://user-images.githubusercontent.com/24309059/59158000-8c68ff00-8ad1-11e9-83e7-fdf73a2ab7ec.png)
 
 
-## Note :
+Note:
 This is partially developed website.You can use it as skeleton for your website.You can modify this website as per your requirement like Restaurant website or ecommerce site etc.
 Thanks..!

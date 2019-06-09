@@ -21,31 +21,41 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
-## Learning Laravel
+## About Laraweb
 
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
+Laraweb it is website developed in Laravel Framwork.It is containing Bike servicing details, Booking for Bike servicing, Register, Pricing, User Testimonals etc.
+You can find below website screen shots.
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
 
-## Laravel Sponsors
+## Home Page : Laraweb site
 
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](http://patreon.com/taylorotwell):
+- Home page showing the "BOOK A SERVICE NOW" button for quick booking.
+- Why Your Garage?
+- Brand we Service?
+- User Testimonal
 
-- **[Vehikl](http://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Styde](https://styde.net)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
+[](url)
+![Home_page](https://user-images.githubusercontent.com/24309059/59157877-2c258d80-8ad0-11e9-902b-2fdb658e2bd9.png)
 
-## Contributing
+## Register, Login:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+- You can Login and Register here
+- You can add Facebook and Google API to Login.Its not available in current repo.
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+![Register_page](https://user-images.githubusercontent.com/24309059/59157991-765b3e80-8ad1-11e9-99d8-4475a1035668.png)
 
-## License
+## Pricing :
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+This page shows below services pricing plans:
+- Inspection 
+- Full Service
+- Break-Down Service
+- Washing
+
+![pricing](https://user-images.githubusercontent.com/24309059/59158000-8c68ff00-8ad1-11e9-83e7-fdf73a2ab7ec.png)
+
+
+Note:
+This is partially developed website.You can use it as skeleton for your website.You can modify this website as per your requirement like Restaurant website or ecommerce site etc.
+Thanks..!

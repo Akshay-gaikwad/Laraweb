@@ -57,5 +57,5 @@ This page shows below services pricing plans:
 
 
 ## Note :
-This not full developed website.You can use it as skeleton for your website.You can modify this website as per your requirement like Restaurant website or ecommerce site etc.
+This is partially developed website.You can use it as skeleton for your website.You can modify this website as per your requirement like Restaurant website or ecommerce site etc.
 Thanks..!

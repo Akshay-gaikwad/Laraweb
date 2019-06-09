@@ -21,7 +21,41 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
-## License
+## About Laraweb
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Laraweb it is website developed in Laravel Framwork.It is containing Bike servicing details, Booking for Bike servicing, Register, Pricing, User Testimonals etc.
+You can find below website screen shots.
 
+
+## Home Page : Laraweb site
+
+- Home page showing the "BOOK A SERVICE NOW" button for quick booking.
+- Why Your Garage?
+- Brand we Service?
+- User Testimonal
+
+[](url)
+![Home_page](https://user-images.githubusercontent.com/24309059/59157877-2c258d80-8ad0-11e9-902b-2fdb658e2bd9.png)
+
+## Register, Login:
+
+- You can Login and Register here
+- You can add Facebook and Google API to Login.Its not available in current repo.
+
+
+![Register_page](https://user-images.githubusercontent.com/24309059/59157991-765b3e80-8ad1-11e9-99d8-4475a1035668.png)
+
+## Pricing :
+
+This page shows below services pricing plans:
+- Inspection 
+- Full Service
+- Break-Down Service
+- Washing
+
+![pricing](https://user-images.githubusercontent.com/24309059/59158000-8c68ff00-8ad1-11e9-83e7-fdf73a2ab7ec.png)
+
+
+## Note :
+This not full developed website.You can use it as skeleton for your website.You can modify this website as per your requirement like Restaurant website or ecommerce site etc.
+Thanks..!
